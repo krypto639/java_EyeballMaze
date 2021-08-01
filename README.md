@@ -1,0 +1,2 @@
+# java_EyeballMaze
+During studies at Ara institute of Canterbury doing a post grad diploma in Information Communication Technologies did a Java course which focused on introduction to java and android studio code. This is the final assignment which explored building movement logic, import Model in a previous assignment, creating pause, mute, move counters, undo movement and other features to make a game operational
